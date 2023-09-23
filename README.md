@@ -43,7 +43,7 @@ Clone this repository:<br>
 
 bash<br>
 1.Copy code<br>
-2.git clone https://github.com/yourusername/research-paper-title-generation.git<br>
+2.git clone https://github.com/avisharma7/research-paper-title-generation.git<br>
 3.cd research-paper-title-generation<br>
 4.Download the pre-trained model checkpoint and place it in the models directory.<br> <br>
 
